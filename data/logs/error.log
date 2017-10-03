@@ -1,0 +1,1 @@
+2017/10/02 22:03:11 [/nakakura/eccube2/html/index.php] Warning(E_USER_WARNING): ホスト名不一致を検出。リダイレクト実行。要求値='ec2-52-198-193-117.ap-northeast-1.compute.amazonaws.com' 設定値='52.198.193.117' リダイレクト先='http://52.198.193.117/nakakura/eccube2/html/'  on [/opt/bitnami/apache2/htdocs/nakakura/eccube2/data/class/SC_Initial.php(542)] from 220.146.20.214
