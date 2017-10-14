@@ -1,0 +1,2 @@
+#テンプレートキャッシュを除外
+.data/Smarty/templates_c
